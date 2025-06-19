@@ -64,6 +64,8 @@ footer {
 
 .fab {
   font-size: 2rem;
+  text-decoration: none;
+  color: black;
 }
 
 .hide {
